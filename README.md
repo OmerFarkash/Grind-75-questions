@@ -11,3 +11,4 @@ I also going to use some different languages to refresh my memory
 4. Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/ [python]
 5. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/description/ [python3]
 6. Invert Binary Tree - https://leetcode.com/problems/invert-binary-tree/description/ [JavaScript]
+7. Valid Anagram - https://leetcode.com/problems/valid-anagram/description/ [JavaScript]
