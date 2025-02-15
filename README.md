@@ -12,3 +12,4 @@ I also going to use some different languages to refresh my memory
 5. Valid Palindrome - https://leetcode.com/problems/valid-palindrome/description/ [python3]
 6. Invert Binary Tree - https://leetcode.com/problems/invert-binary-tree/description/ [JavaScript]
 7. Valid Anagram - https://leetcode.com/problems/valid-anagram/description/ [JavaScript]
+8. Binary Search - https://leetcode.com/problems/binary-search/description/ [JavaScript]
