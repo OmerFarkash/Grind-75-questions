@@ -14,3 +14,4 @@ I also going to use some different languages to refresh my memory
 7. Valid Anagram - https://leetcode.com/problems/valid-anagram/description/ [JavaScript](/ValidAnagram.js)
 8. Binary Search - https://leetcode.com/problems/binary-search/description/ [JavaScript](/BinarySearch.js)
 9. Flood Fill - https://leetcode.com/problems/flood-fill/description/ [JavaScript](/FloodFill.js)
+10. Lowest Common Ancestor of a Binary Search Tree https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/ [JavaScript](/LowestCommonAncestorOfABinarySearchTree.js)
