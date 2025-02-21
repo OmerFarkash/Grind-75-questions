@@ -18,3 +18,4 @@ I also going to use some different languages to refresh my memory
 11. Balanced Binary Tree - https://leetcode.com/problems/balanced-binary-tree/description/ [JavaScript](/BalancedBinaryTree.js)
 12. Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/description/ [JavaScript](/LinkedListCycle.js)
 13. Implement Queue using Stacks - https://leetcode.com/problems/implement-queue-using-stacks/description/ [JavaScript](/ImplementQueueUsingStacks.js)
+14. First Bad Version - https://leetcode.com/problems/first-bad-version/description/ [JavaScript](/FirstBadVersion.js)
