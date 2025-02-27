@@ -23,4 +23,5 @@ I also going to use some different languages to refresh my memory
 16. Climbing Stairs - https://leetcode.com/problems/climbing-stairs/description/ [JavaScprit](/ClimbingStairs.js)
 17. Longest Palindrome - https://leetcode.com/problems/longest-palindrome/description/ [JavaScript](/LongestPalindrome.js)
 18. Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/description/ [JavaScript](/ReverseLinkedList.js)
-19. Majority Element - https://leetcode.com/problems/majority-element/description/ [JavaScprit]
+19. Majority Element - https://leetcode.com/problems/majority-element/description/ [JavaScprit](/MajorityElement.js)
+20. Add Binary - https://leetcode.com/problems/add-binary/description/ [JavaScript](/AddBinary.js)
