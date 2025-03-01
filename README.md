@@ -26,3 +26,4 @@ I also going to use some different languages to refresh my memory
 19. Majority Element - https://leetcode.com/problems/majority-element/description/ [JavaScprit](/MajorityElement.js)
 20. Add Binary - https://leetcode.com/problems/add-binary/description/ [JavaScript](/AddBinary.js)
 21. Diameter of Binary Tree - https://leetcode.com/problems/diameter-of-binary-tree/description/ [JavaScript](/DiameterOfBinaryTree.js)
+22. Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/description/ [JavaScript](/MiddleOfTheLinkedList.js)
