@@ -5,7 +5,7 @@ https://www.techinterviewhandbook.org/grind75/
 I will do my best for one question per day and get better with data starctures
 I also going to use some different languages to refresh my memory 
 
-## easy
+## Easy
 
 1. Two Sum - https://leetcode.com/problems/two-sum/description/ [python](/TwoSum.py)
 2. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/description/ [python](/ValidParentheses.py)
@@ -31,3 +31,7 @@ I also going to use some different languages to refresh my memory
 22. Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/description/ [JavaScript](/MiddleOfTheLinkedList.js)
 23. Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/description/ [JavaScript](/MaximumDepthOfBinaryTree.js)
 24. Contains Duplicate - https://leetcode.com/problems/contains-duplicate/description/ [JavaScript](/ContainsDuplicate.js)
+
+## Medium
+
+25. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/ [JavaScript](/MaximumSubarray.js)
