@@ -35,3 +35,4 @@ I also going to use some different languages to refresh my memory
 ## Medium
 
 25. Maximum Subarray - https://leetcode.com/problems/maximum-subarray/description/ [JavaScript](/MaximumSubarray.js)
+26. Insert Interval - https://leetcode.com/problems/insert-interval/description/ [JavaScript](/InsertInterval.js)
