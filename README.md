@@ -38,3 +38,4 @@ I also going to use some different languages to refresh my memory
 26. Insert Interval - https://leetcode.com/problems/insert-interval/description/ [JavaScript](/InsertInterval.js)
 27. 01 Matrix - https://leetcode.com/problems/01-matrix/description/ [JavaScript](/01Matrix.js)
 28. K Closest Points to Origin - https://leetcode.com/problems/k-closest-points-to-origin/description/ [JavaScript](/KClosestPointsToOrigin.js)
+29. Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/description/ [JavaScript](/LongestSubstringWithoutRepeatingCharacters.js)
